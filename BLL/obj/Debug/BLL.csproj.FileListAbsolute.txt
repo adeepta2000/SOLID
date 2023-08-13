@@ -1,0 +1,14 @@
+E:\dot net\NewsApp\BLL\bin\Debug\BLL.dll
+E:\dot net\NewsApp\BLL\bin\Debug\BLL.pdb
+E:\dot net\NewsApp\BLL\bin\Debug\DAL.dll
+E:\dot net\NewsApp\BLL\bin\Debug\EntityFramework.dll
+E:\dot net\NewsApp\BLL\bin\Debug\DAL.pdb
+E:\dot net\NewsApp\BLL\bin\Debug\DAL.dll.config
+E:\dot net\NewsApp\BLL\bin\Debug\EntityFramework.xml
+E:\dot net\NewsApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\dot net\NewsApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\dot net\NewsApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\dot net\NewsApp\BLL\obj\Debug\BLL.dll
+E:\dot net\NewsApp\BLL\obj\Debug\BLL.pdb
+E:\dot net\NewsApp\BLL\bin\Debug\AutoMapper.dll
+E:\dot net\NewsApp\BLL\bin\Debug\AutoMapper.xml

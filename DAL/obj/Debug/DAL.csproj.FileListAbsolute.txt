@@ -1,0 +1,15 @@
+E:\dot net\NewsApp\DAL\bin\Debug\DAL.dll.config
+E:\dot net\NewsApp\DAL\bin\Debug\DAL.dll
+E:\dot net\NewsApp\DAL\bin\Debug\DAL.pdb
+E:\dot net\NewsApp\DAL\bin\Debug\EntityFramework.dll
+E:\dot net\NewsApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\dot net\NewsApp\DAL\bin\Debug\EntityFramework.xml
+E:\dot net\NewsApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\dot net\NewsApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\dot net\NewsApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\dot net\NewsApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\dot net\NewsApp\DAL\obj\Debug\DAL.dll
+E:\dot net\NewsApp\DAL\obj\Debug\DAL.pdb
+E:\dot net\NewsApp\DAL\obj\Debug\DAL.Migrations.ThreeTablesCreation.resources
+E:\dot net\NewsApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\dot net\NewsApp\DAL\obj\Debug\DAL.Migrations.SetForeignKey.resources
